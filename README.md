@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my GitHub profile! 🚀</h1>
+<h1 align="center">Hi, Welcome to my GitHub profile! 🚀</h1>
 <h3 align="center">I'm Shreya, a passionate Java developer aspirant eager to learn and explore the world of software development. Here, you'll find my projects and contributions, reflecting my journey as I dive deeper into the Java ecosystem.</h3>
 <image align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
