@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/shreya_bonagiri" target="blank"><img src="https://img.shields.io/twitter/follow/shreya_bonagiri?logo=twitter&style=for-the-badge" alt="shreya_bonagiri" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React and DSA**
 
-- 💬 Ask me about **Frontend development, Version control system**
+- 💬 Ask me about **Frontend development**
 
 - 📫 How to reach me **bonagirishreya601@gnail.com**
 
