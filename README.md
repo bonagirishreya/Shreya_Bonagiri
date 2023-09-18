@@ -1,14 +1,14 @@
 <h1 align="center">Hi, Welcome to my GitHub profile! 🚀</h1>
-<h3 align="center">I'm Shreya, a passionate Java developer aspirant eager to learn and explore the world of software development. Here, you'll find my projects and contributions, reflecting my journey as I dive deeper into the Java ecosystem.</h3>
+<h3 align="center">I'm Shreya, a passionate Fullstack developer aspirant eager to learn and explore the world of software development. Here, you'll find my projects and contributions, reflecting my journey as I dive deeper into the fullstack ecosystem.</h3>
 <image align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bonagirishreya&label=Profile%20views&color=0e75b6&style=flat" alt="bonagirishreya" /> </p>
 
 <p align="left"> <a href="https://twitter.com/shreya_bonagiri" target="blank"><img src="https://img.shields.io/twitter/follow/shreya_bonagiri?logo=twitter&style=for-the-badge" alt="shreya_bonagiri" /></a> </p>
 
-- 🌱 I’m currently learning **DotNet**
+- 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Android, MERN**
+- 💬 Ask me about **Frontend development, Version control system**
 
 - 📫 How to reach me **bonagirishreya601@gnail.com**
 
