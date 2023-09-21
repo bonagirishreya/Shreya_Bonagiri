@@ -1,5 +1,5 @@
 <h1 align="center">Hi, Welcome to my GitHub profile! 🚀</h1>
-<h3 align="center">I'm Shreya, a passionate Fullstack developer aspirant eager to learn and explore the world of software development. Here, you'll find my projects and contributions, reflecting my journey as I dive deeper into the fullstack ecosystem.</h3>
+<h3 align="center">I'm Shreya, a passionate Fullstack web developer aspirant eager to learn and explore the world of software development. Here, you'll find my projects and contributions, reflecting my journey as I dive deeper into the fullstack ecosystem.</h3>
 <image align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bonagirishreya&label=Profile%20views&color=0e75b6&style=flat" alt="bonagirishreya" /> </p>
